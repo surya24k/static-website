@@ -1,0 +1,52 @@
+body{
+    background-image: url(assets/27261678_7312980.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+    margin: 50px;
+
+}
+h2{
+    text-align: center;
+    margin: 120px;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: xx-large;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    text-align: center;
+    margin: -120px;
+    font-weight: bolder;
+    font-style: italic;
+    font-size: large;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(24, 24, 24);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    text-align: center;
+}
+.navbar a{
+    color: rgb(255, 255, 255);
+    text-decoration: solid;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgba(118, 118, 118, 0.626);
+}
+.navbar li{
+    float: left;
+}
